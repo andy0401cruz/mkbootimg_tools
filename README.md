@@ -1,4 +1,4 @@
-mkbootimg_tools
+boot.img
 ===============
 
 HOW TO USE:
